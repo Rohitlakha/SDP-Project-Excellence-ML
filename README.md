@@ -7,13 +7,7 @@ Day-wise Machine Learning materials and project work.
 
 ## 🚀 Badges
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-3.0.3-black?logo=flask)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-orange?logo=scikit-learn)  
-![NumPy](https://img.shields.io/badge/numpy-2.2.5-blue?logo=numpy&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-1.15.2-blue?logo=scipy&logoColor=white)  
-![pandas](https://img.shields.io/badge/pandas-1.x-blue?logo=pandas&logoColor=white)  
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-3.0.3-black?logo=flask)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-orange?logo=scikit-learn)  ![NumPy](https://img.shields.io/badge/numpy-2.2.5-blue?logo=numpy&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-1.15.2-blue?logo=scipy&logoColor=white)  ![pandas](https://img.shields.io/badge/pandas-1.x-blue?logo=pandas&logoColor=white)  ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
